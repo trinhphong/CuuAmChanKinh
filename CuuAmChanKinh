@@ -1,0 +1,29 @@
+mysql -u root -proot
+
+1 - How to import an SQL file using the command line in MySQL?
+==
+https://stackoverflow.com/questions/17666249/how-to-import-an-sql-file-using-the-command-line-in-mysql
+
+~~~~~~~~~~~~~
+
+2 - How To Import and Export Databases and Reset a Root Password in MySQL
+==
+https://www.digitalocean.com/community/tutorials/how-to-import-and-export-databases-and-reset-a-root-password-in-mysql
+
+~~~~~~~~~~~~~
+
+3 - What are the steps to reinstall mysql server using Ubuntu Terminal?
+==
+http://www.zyxware.com/articles/5098/solved-what-are-the-steps-to-reinstall-mysql-server-using-ubuntu-terminal
+
+~~~~~~~~~~~~~
+
+4 - How do I install openjdk 7 on Ubuntu 16.04 or higher?
+==
+https://askubuntu.com/questions/761127/how-do-i-install-openjdk-7-on-ubuntu-16-04-or-higher
+
+5 - For IE11
+==
+@media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {  
+  padding-top: 0.6em !important;
+}
