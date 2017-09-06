@@ -27,3 +27,11 @@ https://askubuntu.com/questions/761127/how-do-i-install-openjdk-7-on-ubuntu-16-0
 @media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {  
   padding-top: 0.6em !important;
 }
+
+6 - Add a scrollbar to a <textarea> [duplicate]
+==
+textarea {
+    overflow-y: scroll;
+    height: 100px;
+    resize: none; /* Remove this if you want the user to resize the textarea */
+}
